@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ASL Hand Gesture Recognition using MediaPipe and CNN
 
 This project is a pipeline for recognizing American Sign Language (ASL) gestures. The steps include creating a dataset, preprocessing the images, training a Convolutional Neural Network (CNN) model, detecting hand signs, and evaluating the model's accuracy.
@@ -126,3 +127,6 @@ The script will ask the user to capture a 5 second video of each hand gesture. I
 - Muhammad Amir Faris Bin Ahsan Nudin
 - Amgad Elrashid Gurashid Eltayeb
 - Balchi Maher M. N.
+=======
+# asl-website
+>>>>>>> 47e486d1723d678577099236056720f5a2905f5d
